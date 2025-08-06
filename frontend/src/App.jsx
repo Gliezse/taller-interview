@@ -15,7 +15,7 @@ function App() {
 
     setError(null);
 
-    fetch("http://localhost:3000/transactions", {
+    fetch("http://localhost:3001/transactions", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
