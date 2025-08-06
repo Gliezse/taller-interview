@@ -5,12 +5,12 @@
 
 ## Running the app
 ### Running the backend
-run the following commands to get the back end up and running
-```sh
-cd backend
-npm install
-node index.js
-```
+- Run the following commands to get the back end up and running
+  ```sh
+  cd backend
+  npm install
+  node index.js
+  ```
 
 ### Running the frontend
 - Run the following commands to get the front end up and running in a dev environment
